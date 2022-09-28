@@ -2,12 +2,16 @@
 #   - Create the following variables
 #   - my_first_name
 #       -set this equal to your first name
+my_first_name = 'Brianna'
 #   - my_last_name
 #       -set this equal to your last name
+my_last_name = 'Babcock'
 #   - my_year_of_birth
 #       -set this equal to your birth year (doesn't have to be real should be less then 100 yrs ago)
 #   - current_year
-#       -set this equal to 2020
+my_birth_year = 2000
+#       -set this equal to 2022
+current_year = 2022
 
 
 
